@@ -1,0 +1,6 @@
+.write,.printvar {
+    display: none;
+}
+.showoutput {
+    display: block;
+}
