@@ -2,9 +2,9 @@ my OWN programming language,but now in javascript!
 
 it the same as my python one but now it is fast and can run in browser.
 
-website:
+website:https://mrgamernavshorts.github.io/nav--.js/
 
-if you want to see documentation of this,chen the readmefile of this repository:
+if you want to see documentation of this,check the readme file of this repository:
 
 https://github.com/mrgamernavshorts/nav--
 
